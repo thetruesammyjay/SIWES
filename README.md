@@ -1,6 +1,6 @@
 # Student's Daily Record of Activities
 ## SIWES IT Program - AGMTechPluse
-### Period: June 23 - October 7, 2025
+### Period: June 23 - November 7, 2025
 
 ---
 
@@ -292,4 +292,90 @@
 
 ---
 
-*Note: Voice Changer RVC and Crypto Intelligence Agent projects were explored and documented as supplementary learning activities during the SIWES program.*
+## Week: 13th October
+
+**MONDAY:** Explored AI and machine learning fundamentals for cryptocurrency market analysis and predictive modeling applications.
+
+**TUESDAY:** Designed architecture for Crypto Intelligence Agent with data collection, analysis, and reporting modules.
+
+**WEDNESDAY:** Implemented cryptocurrency API integrations to fetch real-time market data from multiple exchanges and sources.
+
+**THURSDAY:** Developed data processing pipeline with pandas for cleaning, normalizing, and aggregating cryptocurrency market information.
+
+**FRIDAY:** Built sentiment analysis module using natural language processing to analyze crypto news and social media trends.
+
+**SATURDAY:** WORK FREE DAY
+
+**PROJECT FOR THE WEEK:** Crypto Intelligence Agent - AI Market Analysis Tool
+
+---
+
+## Week: 20th October
+
+**MONDAY:** Implemented machine learning models for price trend prediction and pattern recognition in cryptocurrency markets.
+
+**TUESDAY:** Developed automated reporting system generating daily market insights, trend analysis, and investment recommendations.
+
+**WEDNESDAY:** Added portfolio tracking functionality with performance metrics and risk assessment calculations for user investments.
+
+**THURSDAY:** Created alerting system notifying users of significant market movements and potential trading opportunities via notifications.
+
+**FRIDAY:** Tested Crypto Intelligence Agent with historical data validation and deployed with API documentation and usage guides.
+
+**SATURDAY:** WORK FREE DAY
+
+**PROJECT FOR THE WEEK:** Crypto Intelligence Agent - AI Market Analysis Tool
+
+---
+
+## Week: 27th October
+
+**MONDAY:** Researched neural machine translation techniques and explored state-of-the-art deep learning models for language translation.
+
+**TUESDAY:** Designed system architecture for Deep Translate Engine supporting multiple language pairs and translation modes.
+
+**WEDNESDAY:** Implemented transformer-based neural network model for accurate context-aware translation between different languages.
+
+**THURSDAY:** Integrated pre-trained language models and fine-tuned them for improved translation quality and domain specificity.
+
+**FRIDAY:** Built REST API interface allowing seamless integration of translation services into external applications and workflows.
+
+**SATURDAY:** WORK FREE DAY
+
+**PROJECT FOR THE WEEK:** Deep Translate Engine - Neural Translation System
+
+---
+
+## Week: 3rd November
+
+**MONDAY:** Developed batch translation functionality for processing multiple documents and maintaining formatting consistency across translations.
+
+**TUESDAY:** Added language detection feature automatically identifying source language and suggesting optimal translation parameters.
+
+**WEDNESDAY:** Implemented translation memory system caching previous translations to improve consistency and processing speed.
+
+**THURSDAY:** Created web interface for Deep Translate Engine with real-time translation preview and language pair selection.
+
+**FRIDAY:** Completed testing of Deep Translate Engine with accuracy benchmarks and deployed to production with API documentation.
+
+**SATURDAY:** WORK FREE DAY
+
+**PROJECT FOR THE WEEK:** Deep Translate Engine - Neural Translation System
+
+---
+
+## Week: 10th November (Partial Week)
+
+**MONDAY:** Studied QR code standards and explored encoding algorithms for generating various QR code types and formats.
+
+**TUESDAY:** Developed QR Code Generator with support for text, URLs, contact information, and WiFi credentials encoding.
+
+**WEDNESDAY:** Implemented customization options including color schemes, logo embedding, and error correction level adjustments for QR codes.
+
+**THURSDAY:** Built voice transcription system using support vector machines for accurate speech-to-text conversion and analysis.
+
+**FRIDAY:** Developed Crypto Prediction App MVP with machine learning models forecasting short-term cryptocurrency price movements.
+
+**SATURDAY:** WORK FREE DAY
+
+**PROJECT FOR THE WEEK:** Multiple Mini-Projects - QR Generator, Voice Transcriber, Crypto Prediction App
