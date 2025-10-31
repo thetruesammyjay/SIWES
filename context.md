@@ -5,7 +5,7 @@
 - **Institution:** [Your Institution]
 - **Program:** SIWES IT Program
 - **Company:** AGMTechPluse
-- **Duration:** June 23, 2025 - October 7, 2025
+- **Duration:** June 23, 2025 - November 7, 2025
 
 ## Projects Completed During SIWES
 
@@ -65,26 +65,60 @@
 - **Technologies:** PHP, Telegram Bot API
 - **Key Features:** Room search, reservation management, payment processing, check-in/check-out automation
 
-### 9. Voice Changer RVC - Audio Processing Tool
+### 9. Crypto Intelligence Agent - AI Market Analysis Tool
+- **Type:** AI Application
+- **Repository:** https://github.com/thetruesammyjay/crypto-intelligence-agent
+- **Description:** AI-powered cryptocurrency market analysis and intelligence gathering tool with predictive modeling.
+- **Technologies:** Python, Machine Learning, Pandas, NLP
+- **Key Features:** Real-time market data aggregation, sentiment analysis, price prediction models, automated reporting, portfolio tracking
+
+### 10. Deep Translate Engine - Neural Translation System
+- **Type:** AI Application
+- **Repository:** https://github.com/thetruesammyjay/Deep-Translate-Engine
+- **Description:** Advanced neural machine translation system using deep learning for accurate multi-language translation.
+- **Technologies:** Python, Transformer Models, Deep Learning, REST API
+- **Key Features:** Context-aware translation, multiple language pairs, batch processing, translation memory, language detection
+
+### 11. QR Code Generator - Utility Tool
+- **Type:** Web/Desktop Application
+- **Repository:** https://github.com/thetruesammyjay/qr-code-generator
+- **Description:** Versatile QR code generation tool with customization options for various use cases.
+- **Technologies:** Python/JavaScript
+- **Key Features:** Multiple data type encoding, custom colors and logos, error correction levels, batch generation
+
+### 12. Voice Transcriber SVM - Speech Recognition System
+- **Type:** AI Application
+- **Repository:** https://github.com/thetruesammyjay/voice-transcriber-svm
+- **Description:** Voice transcription system using support vector machines for accurate speech-to-text conversion.
+- **Technologies:** Python, SVM, Audio Processing
+- **Key Features:** Real-time transcription, speaker recognition, audio preprocessing, text output formatting
+
+### 13. Crypto Prediction App MVP - Price Forecasting Tool
+- **Type:** Web Application
+- **Repository:** https://github.com/thetruesammyjay/crypto-prediction-app-mvp
+- **Description:** Minimum viable product for cryptocurrency price prediction using machine learning algorithms.
+- **Technologies:** Python, Machine Learning, Flask/Django
+- **Key Features:** Short-term price forecasting, historical data analysis, prediction confidence scores, visualization charts
+
+### 14. Voice Changer RVC - Audio Processing Tool
 - **Type:** Desktop Application
 - **Repository:** https://github.com/thetruesammyjay/voice-changer-RVC
 - **Description:** Real-time voice changing application using RVC technology.
 - **Technologies:** Python, Audio Processing Libraries
 - **Key Features:** Real-time voice modulation, multiple voice models
 
-### 10. Crypto Intelligence Agent - AI-Powered Analysis Tool
-- **Type:** AI Application
-- **Repository:** https://github.com/thetruesammyjay/crypto-intelligence-agent
-- **Description:** AI-powered cryptocurrency market analysis and intelligence gathering tool.
-- **Technologies:** Python, AI/ML Libraries
-- **Key Features:** Market analysis, trend prediction, automated reporting
-
 ## Skills Acquired
 - Full-stack web development (PHP, MySQL, JavaScript)
 - Bot development (Telegram Bot API, Twitter API)
 - Blockchain and smart contract development
+- Machine Learning and AI model development
+- Natural Language Processing (NLP)
+- Neural Machine Translation
+- Audio processing and speech recognition
+- Computer Vision and QR code generation
 - API integration and REST services
 - Database design and management
+- Data analysis with Pandas and NumPy
 - Version control with Git/GitHub
 - Project deployment and server management
 - UI/UX design principles
@@ -94,10 +128,14 @@
 - **Backend:** PHP, Node.js, Python
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** MySQL
-- **APIs:** Telegram Bot API, Twitter API
+- **APIs:** Telegram Bot API, Twitter API, Cryptocurrency APIs
 - **Blockchain:** Smart Contracts, Web3
-- **Tools:** Git, GitHub, WebSocket
-- **Deployment:** Linux servers, web hosting
+- **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, SVM
+- **NLP:** Transformer models, BERT, GPT
+- **Data Science:** Pandas, NumPy, Matplotlib
+- **Audio Processing:** Librosa, PyAudio, Speech Recognition
+- **Tools:** Git, GitHub, WebSocket, Flask/Django
+- **Deployment:** Linux servers, web hosting, Docker
 
 ## Report Writing Instructions
 When writing your final SIWES report, include:
